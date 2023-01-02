@@ -17,5 +17,9 @@
   "trailingComma": "es5",
   "useTabs": false,
   "vueIndentScriptAndStyle": false,
-  "parser": "typescript"
+  "parser": "typescript",
+  "[typescript]": {
+	"editor.formatOnPaste": false,
+	"editor.formatOnSave": false
+  }
 }
